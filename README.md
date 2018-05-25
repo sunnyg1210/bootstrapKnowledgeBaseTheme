@@ -8,6 +8,9 @@ This is a free html Bootstrap Knowledge Base theme, it can be customised to fit 
 
 You can use this theme however you like. It is licensed under the MIT license.
 
+## Free Material Design Knowledge Base
+For a newer design of knowledge base made using Material design, see this repository: [https://github.com/sunnyg1210/material-knowledge-base](https://github.com/sunnyg1210/material-knowledge-base)
+
 ## Free Material design Angular 4 Admin theme
 If you like this and are building a web application, checkout https://github.com/sunnyg1210/adminbsbmaterial-ANGULAR - this is another theme that customised for Angular 4 and is ready to go for admin style web apps :). More free stuff will be coming soon so keep an eye out ;)
 
