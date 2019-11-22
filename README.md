@@ -2,6 +2,15 @@
 
 https://sunnyg1210.github.io/bootstrapKnowledgeBaseTheme/
 
+Created by the team at [https://svsitsolutions.co.uk][SVS IT Solutions]
+
+<a href="https://svsitsolutions.co.uk"><img src="https://svsitsolutions.co.uk/wp-content/uploads/2017/05/new-svs-website-logo.png"></a>
+
+#### Follow us on Social Media
+Facebook: [@svssoftwaredev](https://www.facebook.com/svssoftwaredev)
+
+Instagram: [@svssoftwaredev](https://www.instagram.com/svssoftwaredev)
+
 ## Synopsis
 
 This is a free html Bootstrap Knowledge Base theme, it can be customised to fit wordpress and other CMS systems. If you need help converting the theme, get in touch with me. 
