@@ -2,7 +2,7 @@
 
 https://sunnyg1210.github.io/bootstrapKnowledgeBaseTheme/
 
-Created by the team at [https://svsitsolutions.co.uk][SVS IT Solutions]
+Created by the team at [SVS IT Solutions](https://svsitsolutions.co.uk)
 
 <a href="https://svsitsolutions.co.uk"><img src="https://svsitsolutions.co.uk/wp-content/uploads/2017/05/new-svs-website-logo.png"></a>
 
